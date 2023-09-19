@@ -1,0 +1,77 @@
+.tamano-tarjetas {
+    background-color: aquamarine;
+}
+
+.font {
+    font-size: 13px;
+}
+
+.tamano {
+    font-size: 10px !important;
+}
+
+.cuadrado {
+    height: auto;
+    width: 90px;
+}
+
+.left {
+    /* background-color: aquamarine; */
+}
+
+.rigth {
+    /* background-color: rgb(0, 255, 64); */
+}
+
+.pagar {
+    background-color: aliceblue;
+}
+
+.tarjeta {
+    height: 100px;
+    background-color: aliceblue;
+}
+
+.pasajero {
+    background-color: aliceblue;
+}
+
+.total {
+    height: 220px;
+    background-color: aliceblue;
+}
+
+.compra {
+    height: 350px;
+}
+
+.adicional {
+    height: 130px;
+    background-color: aliceblue;
+}
+
+.hospedaje {
+    height: 130px;
+    background-color: aliceblue;
+}
+
+.input {
+    margin-top: 10px;
+}
+
+.color {
+    background-color: skyblue;
+}
+
+.color-body {
+    background-color: darkgrey;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plane {
+    font-size: 20px;
+}
